@@ -5,7 +5,7 @@ module.exports = {
   solidity: "0.8.17",
   networks: {
        hardhat: {
-          chainid: 1337,
+          chainid: 31337,
     },
 
    // polygon_mumbai: {
@@ -13,14 +13,14 @@ module.exports = {
     //  url: "Your URL",
       // url: process.env.POLYGON_MUMBAI,
      // accounts: [
-      //  `0x${"Your Account"}`,
+      //  `0x${" Account"}`,
     //  ],
   //  },
 
     // fuji: {
     //   url: `Your URL`,
     //   accounts: [
-    //     `0x${"Your Account"}`,
+    //     `0x${" Account"}`,
     //   ],
     // },
   },

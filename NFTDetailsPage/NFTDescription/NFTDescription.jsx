@@ -179,7 +179,7 @@ const NFTDescription = ({ nft }) => {
                 <small>Creator</small> <br />
                 <Link href={{ pathname: "/author", query: `${nft.seller}` }}>
                   <span>
-                    Karli Costa <MdVerified />
+                    Karli Master😂 <MdVerified />
                   </span>
                 </Link>
               </div>
@@ -259,27 +259,27 @@ const NFTDescription = ({ nft }) => {
             </div>
 
             <div className={Style.NFTDescription_box_profile_biding_box_button}>
-              {currentAccount == nft.seller.toLowerCase() ? (
-                <p>You can't buy your own NFT</p>
-              ) : currentAccount == nft.owner.toLowerCase() ? (
-                <Button
-                  icon=<FaWallet />
-                  btnName="List on Marketplace"
-                  handleClick={() =>
-                    router.push(
-                      `/reSellToken?id=${nft.tokenId}&tokenURI=${nft.tokenURI}&price=${nft.price}`
-                    )
-                  }
-                  classStyle={Style.button}
-                />
-              ) : (
-                <Button
-                  icon=<FaWallet />
-                  btnName="Buy NFT"
-                  handleClick={() => buyNFT(nft)}
-                  classStyle={Style.button}
-                />
-              )}
+              {/* {currentAccount == nft.seller.toLowerCase() ? ( */}
+                {/* <p>You can't buy your own NFT</p> */}
+              {/* ) : currentAccount == nft.owner.toLowerCase() ? ( */}
+                {/* <Button */}
+                  {/* icon=<FaWallet /> */}
+                  {/* btnName="List on Marketplace" */}
+                  {/* handleClick={() => */}
+                    {/* router.push( */}
+                      {/* `/reSellToken?id=${nft.tokenId}&tokenURI=${nft.tokenURI}&price=${nft.price}` */}
+                    {/* ) */}
+                  {/* } */}
+                  {/* classStyle={Style.button} */}
+                {/* /> */}
+              {/* ) : ( */}
+                {/* <Button */}
+                  {/* icon=<FaWallet /> */}
+                  {/* btnName="Buy NFT" */}
+                  {/* handleClick={() => buyNFT(nft)} */}
+                  {/* classStyle={Style.button} */}
+                {/* /> */}
+              {/* )} */}
 
               <Button
                 icon=<FaPercentage />

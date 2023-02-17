@@ -4,7 +4,7 @@ import React from "react";
 import Style from "../styles/collection.module.css";
 import images from "../img";
 import {
-  Banner,
+ Banner,
   CollectionProfile,
   NFTCardTwo,
 } from "../collectionPage/collectionIndex";
@@ -40,13 +40,13 @@ const Collection = () => {
   ];
   return (
     <div className={Style.collection}>
-      <Banner bannerImage={images.creatorbackground1} />
-      <CollectionProfile />
+     { <Banner bannerImage={images.creatorbackground1} /> }
+    { <CollectionProfile /> }
       <Filter />
       <NFTCardTwo NFTData={collectionArray} />
 
       <Slider />
-      <Brand />
+      {/* <Brand /> */}
     </div>
   );
 };

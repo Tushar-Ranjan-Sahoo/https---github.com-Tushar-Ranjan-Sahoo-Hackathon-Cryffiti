@@ -9,40 +9,25 @@ import images from "../img";
 const aboutus = () => {
   const founderArray = [
     {
-      name: "Niamh O'Shea",
-      position: "Co-founder and Chief Executive",
+      name: "Tushar Ranjan ",
+      position: "Founder and Chief Executive",
       images: images.founder1,
     },
     {
-      name: "Danien Jame",
-      position: "Co-founder and Chief Executive",
+      name: "Arpita Roul",
+      position: "Co-founder ",
       images: images.founder2,
     },
     {
-      name: "Orla Dwyer",
-      position: "Co-founder, Chairman",
+      name: "Suprit Swain ",
+      position: " Chairman",
       images: images.founder3,
     },
-    {
-      name: "Dara Frazier",
-      position: "Co-Founder, Chief Strategy Officer",
-      images: images.founder4,
-    },
+    
   ];
 
   const factsArray = [
-    {
-      title: "10 million",
-      info: "Articles have been public around the world (as of Sept. 30, 2021)",
-    },
-    {
-      title: "100,000",
-      info: "Registered users account (as of Sept. 30, 2021)",
-    },
-    {
-      title: "220+",
-      info: "Countries and regions have our presence (as of Sept. 30, 2021",
-    },
+    
   ];
   return (
     <div className={Style.aboutus}>
@@ -51,9 +36,7 @@ const aboutus = () => {
           <div className={Style.aboutus_box_hero_left}>
             <h1>👋 About Us.</h1>
             <p>
-              We’re impartial and independent, and every day we create
-              distinctive, world-class programmes and content which inform,
-              educate and entertain millions of people in the around the world.
+            Cryffiti is a NFT marketplace that provides a platform for artists to showcase and sell their NFTs. Our goal is to revolutionize the art world by creating a community of artists and collectors where NFTs can be easily bought and sold, while providing a secure and streamlined transaction process.
             </p>
           </div>
           <div className={Style.aboutus_box_hero_right}>
@@ -87,13 +70,6 @@ const aboutus = () => {
           </div>
         </div>
 
-        <div className={Style.aboutus_box_title}>
-          <h2>🚀 Fast Facts</h2>
-          <p>
-            We’re impartial and independent, and every day we create
-            distinctive, world-class programmes and content
-          </p>
-        </div>
 
         <div className={Style.aboutus_box_facts}>
           <div className={Style.aboutus_box_facts_box}>
@@ -106,7 +82,7 @@ const aboutus = () => {
           </div>
         </div>
       </div>
-      <Brand />
+      
     </div>
   );
 };

@@ -9,11 +9,11 @@ const Discover = () => {
   const discover = [
     {
       name: "Collection",
-      link: "Collection",
+      link: "collection",
     },
     {
       name: "Search",
-      link: "SearchPage",
+      link: "searchPage",
     },
     {
       name: "Author Profile",
