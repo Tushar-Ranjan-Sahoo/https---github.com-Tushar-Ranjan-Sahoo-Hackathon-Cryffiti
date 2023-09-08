@@ -27,6 +27,7 @@ import service4 from "./service-1.png";
 import logoLight from "./logo-light.svg";
 import logo from "./newlogo.png";
 import facebook from "./facebook.svg";
+import google from "./gog.png";
 import twitter from "./twitter.svg";
 import telegram from "./telegram.svg";
 import youtube from "./youtube.svg";
@@ -108,6 +109,7 @@ export default {
   logo,
   logoLight,
   facebook,
+  google,
   telegram,
   twitter,
   vector,
