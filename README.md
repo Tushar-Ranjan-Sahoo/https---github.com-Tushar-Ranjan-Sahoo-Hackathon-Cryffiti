@@ -22,9 +22,18 @@
 
 
 
-## Screenshots
+## HomePage
 
 ![image](https://raw.githubusercontent.com/Tushar-Ranjan-Sahoo/https---github.com-Tushar-Ranjan-Sahoo-Hackathon-Cryffiti/master/github%20images/home%20page.png)
+## Your Profile Page
+
+![image](https://github.com/Tushar-Ranjan-Sahoo/https---github.com-Tushar-Ranjan-Sahoo-Hackathon-Cryffiti/blob/master/github%20images/profile%20page.png)
+## Feature Page
+
+![image](https://github.com/Tushar-Ranjan-Sahoo/https---github.com-Tushar-Ranjan-Sahoo-Hackathon-Cryffiti/blob/master/github%20images/feature%20page.png)
+## Video Page
+
+
 
 
 ## Usage
@@ -46,9 +55,7 @@
 
 We welcome contributions! If you have an idea for a new feature or have found a bug, please open an issue on GitHub.
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Contact
 
