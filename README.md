@@ -24,7 +24,7 @@
 
 ## Screenshots
 
-![Screenshot 1]([/screenshots/screenshot1.png](https://github.com/Tushar-Ranjan-Sahoo/https---github.com-Tushar-Ranjan-Sahoo-Hackathon-Cryffiti/blob/master/github%20images/home%20page.png))
+![Screenshot 1]([/screenshots/screenshot1.png](https://raw.githubusercontent.com/Tushar-Ranjan-Sahoo/https---github.com-Tushar-Ranjan-Sahoo-Hackathon-Cryffiti/master/github%20images/home%20page.png))
 
 
 ## Usage
