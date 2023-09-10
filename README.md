@@ -60,7 +60,7 @@ We welcome contributions! If you have an idea for a new feature or have found a 
 ## Contact
 
 - Author: [Tushar Ranjan Sahoo](https://github.com/Tushar-Ranjan-Sahoo)
-- LinkedIn: [ LinkedIn Profile][(https://www.linkedin.com/in/yourusername/](https://www.linkedin.com/in/tushar-ranjan-sahoo-590a8826b/)https://www.linkedin.com/in/tushar-ranjan-sahoo-590a8826b/)
+- LinkedIn:(https://www.linkedin.com/in/tushar-ranjan-sahoo-590a8826b/)https://www.linkedin.com/in/tushar-ranjan-sahoo-590a8826b/)
 - Email: tusharranjansahoo18@gmail.com
 
 
